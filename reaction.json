@@ -1,0 +1,19 @@
+{
+  "code": "lydocia.CombinatedEggBasket.reaction",
+  "recipeStep": "Combinate",
+  "tools": [],
+  "reagents": [
+    {
+      "code": "staxel.item.crafting.Egg",
+      "quantity": 3
+    }
+  ],
+  "results": [
+    {
+      "kind": "staxel.item.Placer",
+      "tile": "lydocia.CombinatedEggBasket",
+      "quantity": 1
+    }
+  ],
+  "effectTrigger": "staxel.effect.crafting.Assemble"
+}

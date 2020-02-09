@@ -1,0 +1,24 @@
+{
+  "name": "staxel-modgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipdodd/staxel-modgen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipdodd/staxel-modgen/issues"
+  },
+  "homepage": "https://github.com/phillipdodd/staxel-modgen#readme",
+  "dependencies": {
+    "chalk-pipe": "^3.0.0",
+    "inquirer": "^7.0.4"
+  }
+}
